@@ -1,0 +1,146 @@
+[
+    {
+        "_id": "143",
+        "nombre": "Audax Italiano",
+        "sigla": "AUD",
+        "paisId": "6",
+        "paisNombre": "Chile",
+        "tipo": "club"
+    },
+    {
+        "_id": "144",
+        "nombre": "Cobresal",
+        "sigla": "COB",
+        "paisId": "6",
+        "paisNombre": "Chile",
+        "tipo": "club"
+    },
+    {
+        "_id": "95",
+        "nombre": "Colo Colo",
+        "sigla": "COL",
+        "paisId": "6",
+        "paisNombre": "Chile",
+        "tipo": "club"
+    },
+    {
+        "_id": "145",
+        "nombre": "Coquimbo Unido",
+        "sigla": "COQ",
+        "paisId": "6",
+        "paisNombre": "Chile",
+        "tipo": "club"
+    },
+    {
+        "_id": "941",
+        "nombre": "Curicó Unido",
+        "sigla": "CUR",
+        "paisId": "6",
+        "paisNombre": "Chile",
+        "tipo": "club"
+    },
+    {
+        "_id": "263",
+        "nombre": "D. Antofagasta",
+        "sigla": "ANT",
+        "paisId": "6",
+        "paisNombre": "Chile",
+        "tipo": "club"
+    },
+    {
+        "_id": "943",
+        "nombre": "Deportes Iquique",
+        "sigla": "DIQ",
+        "paisId": "6",
+        "paisNombre": "Chile",
+        "tipo": "club"
+    },
+    {
+        "_id": "150",
+        "nombre": "D. La Serena",
+        "sigla": "SER",
+        "paisId": "6",
+        "paisNombre": "Chile",
+        "tipo": "club"
+    },
+    {
+        "_id": "148",
+        "nombre": "Everton",
+        "sigla": "EVE",
+        "paisId": "6",
+        "paisNombre": "Chile",
+        "tipo": "club"
+    },
+    {
+        "_id": "149",
+        "nombre": "Huachipato",
+        "sigla": "HUA",
+        "paisId": "6",
+        "paisNombre": "Chile",
+        "tipo": "club"
+    },
+    {
+        "_id": "264",
+        "nombre": "O'Higgins",
+        "sigla": "OHI",
+        "paisId": "6",
+        "paisNombre": "Chile",
+        "tipo": "club"
+    },
+    {
+        "_id": "151",
+        "nombre": "Palestino",
+        "sigla": "PAL",
+        "paisId": "6",
+        "paisNombre": "Chile",
+        "tipo": "club"
+    },
+    {
+        "_id": "154",
+        "nombre": "Santiago Wanderers",
+        "sigla": "WAN",
+        "paisId": "6",
+        "paisNombre": "Chile",
+        "tipo": "club"
+    },
+    {
+        "_id": "120",
+        "nombre": "U. Católica",
+        "sigla": "UCA",
+        "paisId": "6",
+        "paisNombre": "Chile",
+        "tipo": "club"
+    },
+    {
+        "_id": "156",
+        "nombre": "U. Concepción",
+        "sigla": "UDC",
+        "paisId": "6",
+        "paisNombre": "Chile",
+        "tipo": "club"
+    },
+    {
+        "_id": "945",
+        "nombre": "U. La Calera",
+        "sigla": "ULC",
+        "paisId": "6",
+        "paisNombre": "Chile",
+        "tipo": "club"
+    },
+    {
+        "_id": "157",
+        "nombre": "Unión Española",
+        "sigla": "UES",
+        "paisId": "6",
+        "paisNombre": "Chile",
+        "tipo": "club"
+    },
+    {
+        "_id": "76",
+        "nombre": "Universidad de Chile",
+        "sigla": "UCH",
+        "paisId": "6",
+        "paisNombre": "Chile",
+        "tipo": "club"
+    }
+]

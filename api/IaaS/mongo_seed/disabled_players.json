@@ -1,0 +1,629 @@
+[
+    {
+        "_id": "46106",
+        "nombre": "Carlos Humberto",
+        "apellido": "Escobar Ortiz",
+        "nombreCorto": "Carlos Escobar",
+        "fechaBaja": "2020-01-10",
+        "ladoHabil": null,
+        "fechaNacimiento": "1989-12-24",
+        "horaNacimiento": null,
+        "peso": "77",
+        "altura": "183",
+        "apodo": null,
+        "rol": {
+            "_idRol": "4",
+            "text": "Delantero"
+        },
+        "camiseta": "29",
+        "pais": {
+            "paisId": "6",
+            "text": "Chile"
+        },
+        "provincia": null,
+        "clubActual": {
+            "_id": "155",
+            "nombre": "Deportes Temuco",
+            "paisId": "6",
+            "paisNombre": "Chile",
+            "paisSigla": "CHI",
+            "tipo": "club"
+        },
+        "localidad": null,
+        "team_id": "144"
+    },
+    {
+        "_id": "82535",
+        "nombre": "Mario Alfredo",
+        "apellido": "Salas Saieg",
+        "nombreCorto": "Mario Salas",
+        "fechaBaja": "2020-02-25",
+        "ladoHabil": null,
+        "fechaNacimiento": "1967-10-11",
+        "horaNacimiento": null,
+        "peso": null,
+        "altura": null,
+        "apodo": null,
+        "rol": {
+            "_idRol": "5",
+            "text": "DT"
+        },
+        "camiseta": null,
+        "pais": {
+            "paisId": "6",
+            "text": "Chile"
+        },
+        "provincia": null,
+        "clubActual": {
+            "_id": "",
+            "nombre": "",
+            "paisId": "",
+            "paisNombre": "",
+            "paisSigla": "",
+            "tipo": ""
+        },
+        "localidad": null,
+        "team_id": "95"
+    },
+    {
+        "_id": "245971",
+        "nombre": "Francisco Ignacio",
+        "apellido": "Cordero",
+        "nombreCorto": "Francisco Cordero",
+        "fechaBaja": "2020-01-02",
+        "ladoHabil": null,
+        "fechaNacimiento": "1998-11-03",
+        "horaNacimiento": null,
+        "peso": null,
+        "altura": null,
+        "apodo": null,
+        "rol": {
+            "_idRol": "1",
+            "text": "Arquero"
+        },
+        "camiseta": null,
+        "pais": {
+            "paisId": "6",
+            "text": "Chile"
+        },
+        "provincia": null,
+        "clubActual": {
+            "_id": "3879",
+            "nombre": "Colchagua",
+            "paisId": "6",
+            "paisNombre": "Chile",
+            "paisSigla": "CHI",
+            "tipo": "club"
+        },
+        "localidad": null,
+        "team_id": "145"
+    },
+    {
+        "_id": "164399",
+        "nombre": "Yerko Marcelo",
+        "apellido": "Rojas Godoy",
+        "nombreCorto": "Yerko Rojas",
+        "fechaBaja": "2020-01-10",
+        "ladoHabil": null,
+        "fechaNacimiento": "1995-10-06",
+        "horaNacimiento": null,
+        "peso": "65",
+        "altura": "173",
+        "apodo": null,
+        "rol": {
+            "_idRol": "4",
+            "text": "Delantero"
+        },
+        "camiseta": "13",
+        "pais": {
+            "paisId": "6",
+            "text": "Chile"
+        },
+        "provincia": null,
+        "clubActual": {
+            "_id": "4674",
+            "nombre": "Dep. Valdivia",
+            "paisId": "6",
+            "paisNombre": "Chile",
+            "paisSigla": "CHI",
+            "tipo": "club"
+        },
+        "localidad": null,
+        "team_id": "145"
+    },
+    {
+        "_id": "212474",
+        "nombre": "Alexander",
+        "apellido": "Escobar Balbontin",
+        "nombreCorto": "Alexander Escobar",
+        "fechaBaja": "2020-01-12",
+        "ladoHabil": null,
+        "fechaNacimiento": "1999-04-15",
+        "horaNacimiento": null,
+        "peso": "67",
+        "altura": "169",
+        "apodo": null,
+        "rol": {
+            "_idRol": "3",
+            "text": "Volante"
+        },
+        "camiseta": "31",
+        "pais": {
+            "paisId": "6",
+            "text": "Chile"
+        },
+        "provincia": null,
+        "clubActual": {
+            "_id": "940",
+            "nombre": "D. Copiapó",
+            "paisId": "6",
+            "paisNombre": "Chile",
+            "paisSigla": "CHI",
+            "tipo": "club"
+        },
+        "localidad": null,
+        "team_id": "263"
+    },
+    {
+        "_id": "175242",
+        "nombre": "José Daniel",
+        "apellido": "Bandez Salazar",
+        "nombreCorto": "José Bandez",
+        "fechaBaja": "2020-02-01",
+        "ladoHabil": null,
+        "fechaNacimiento": "1999-10-10",
+        "horaNacimiento": null,
+        "peso": "61",
+        "altura": "169",
+        "apodo": null,
+        "rol": {
+            "_idRol": "4",
+            "text": "Delantero"
+        },
+        "camiseta": null,
+        "pais": {
+            "paisId": "13",
+            "text": "Venezuela"
+        },
+        "provincia": null,
+        "clubActual": {
+            "_id": "153",
+            "nombre": "Rangers",
+            "paisId": "6",
+            "paisNombre": "Chile",
+            "paisSigla": "CHI",
+            "tipo": "club"
+        },
+        "localidad": null,
+        "team_id": "263"
+    },
+    {
+        "_id": "210172",
+        "nombre": "Alex Matías",
+        "apellido": "Ibacache",
+        "nombreCorto": "Alex Ibacache",
+        "fechaBaja": "2020-01-12",
+        "ladoHabil": null,
+        "fechaNacimiento": "1999-01-11",
+        "horaNacimiento": null,
+        "peso": "77",
+        "altura": "181",
+        "apodo": null,
+        "rol": {
+            "_idRol": "2",
+            "text": "Defensor"
+        },
+        "camiseta": "33",
+        "pais": {
+            "paisId": "6",
+            "text": "Chile"
+        },
+        "provincia": null,
+        "clubActual": {
+            "_id": "941",
+            "nombre": "Curicó Unido",
+            "paisId": "6",
+            "paisNombre": "Chile",
+            "paisSigla": "CHI",
+            "tipo": "club"
+        },
+        "localidad": null,
+        "team_id": "148"
+    },
+    {
+        "_id": "201172",
+        "nombre": "Matías",
+        "apellido": "Leiva Arancibia",
+        "nombreCorto": "Matías Leiva",
+        "fechaBaja": "2020-02-29",
+        "ladoHabil": null,
+        "fechaNacimiento": "1999-07-24",
+        "horaNacimiento": null,
+        "peso": null,
+        "altura": null,
+        "apodo": null,
+        "rol": {
+            "_idRol": "4",
+            "text": "Delantero"
+        },
+        "camiseta": "15",
+        "pais": {
+            "paisId": "6",
+            "text": "Chile"
+        },
+        "provincia": null,
+        "clubActual": {
+            "_id": "944",
+            "nombre": "San Luis",
+            "paisId": "6",
+            "paisNombre": "Chile",
+            "paisSigla": "CHI",
+            "tipo": "club"
+        },
+        "localidad": null,
+        "team_id": "148"
+    },
+    {
+        "_id": "173402",
+        "nombre": "Nicolás",
+        "apellido": "Baeza",
+        "nombreCorto": "Nicolás Baeza",
+        "fechaBaja": "2020-01-08",
+        "ladoHabil": null,
+        "fechaNacimiento": "1997-05-07",
+        "horaNacimiento": null,
+        "peso": "75",
+        "altura": "175",
+        "apodo": null,
+        "rol": {
+            "_idRol": "3",
+            "text": "Volante"
+        },
+        "camiseta": "14",
+        "pais": {
+            "paisId": "6",
+            "text": "Chile"
+        },
+        "provincia": null,
+        "clubActual": {
+            "_id": "150",
+            "nombre": "D. La Serena",
+            "paisId": "6",
+            "paisNombre": "Chile",
+            "paisSigla": "CHI",
+            "tipo": "club"
+        },
+        "localidad": null,
+        "team_id": "149"
+    },
+    {
+        "_id": "208756",
+        "nombre": "Kevin Alexander",
+        "apellido": "Baeza Martínez",
+        "nombreCorto": "Kevin Baeza",
+        "fechaBaja": "2020-01-31",
+        "ladoHabil": null,
+        "fechaNacimiento": "1998-06-13",
+        "horaNacimiento": null,
+        "peso": null,
+        "altura": null,
+        "apodo": null,
+        "rol": {
+            "_idRol": "4",
+            "text": "Delantero"
+        },
+        "camiseta": "17",
+        "pais": {
+            "paisId": "6",
+            "text": "Chile"
+        },
+        "provincia": null,
+        "clubActual": {
+            "_id": "939",
+            "nombre": "San Marcos",
+            "paisId": "6",
+            "paisNombre": "Chile",
+            "paisSigla": "CHI",
+            "tipo": "club"
+        },
+        "localidad": null,
+        "team_id": "149"
+    },
+    {
+        "_id": "62129",
+        "nombre": "Elías Víctor",
+        "apellido": "Hartard Ojeda",
+        "nombreCorto": "Elías Hartard",
+        "fechaBaja": "2020-02-01",
+        "ladoHabil": null,
+        "fechaNacimiento": "1987-05-18",
+        "horaNacimiento": null,
+        "peso": "79",
+        "altura": "184",
+        "apodo": null,
+        "rol": {
+            "_idRol": "1",
+            "text": "Arquero"
+        },
+        "camiseta": null,
+        "pais": {
+            "paisId": "6",
+            "text": "Chile"
+        },
+        "provincia": null,
+        "clubActual": {
+            "_id": "3882",
+            "nombre": "Iberia",
+            "paisId": "6",
+            "paisNombre": "Chile",
+            "paisSigla": "CHI",
+            "tipo": "club"
+        },
+        "localidad": null,
+        "team_id": "154"
+    },
+    {
+        "_id": "32479",
+        "nombre": "Nelson Arnoldo",
+        "apellido": "Rebolledo Tapia",
+        "nombreCorto": "Nelson Rebolledo",
+        "fechaBaja": "2020-01-31",
+        "ladoHabil": null,
+        "fechaNacimiento": "1985-11-14",
+        "horaNacimiento": null,
+        "peso": "76",
+        "altura": "177",
+        "apodo": null,
+        "rol": {
+            "_idRol": "2",
+            "text": "Defensor"
+        },
+        "camiseta": "13",
+        "pais": {
+            "paisId": "6",
+            "text": "Chile"
+        },
+        "provincia": null,
+        "clubActual": {
+            "_id": "153",
+            "nombre": "Rangers",
+            "paisId": "6",
+            "paisNombre": "Chile",
+            "paisSigla": "CHI",
+            "tipo": "club"
+        },
+        "localidad": null,
+        "team_id": "154"
+    },
+    {
+        "_id": "15787",
+        "nombre": "Jorge Enrique",
+        "apellido": "Ampuero Cabello",
+        "nombreCorto": "Jorge Ampuero",
+        "fechaBaja": "2020-01-10",
+        "ladoHabil": null,
+        "fechaNacimiento": "1987-04-17",
+        "horaNacimiento": null,
+        "peso": "82",
+        "altura": "183",
+        "apodo": null,
+        "rol": {
+            "_idRol": "3",
+            "text": "Volante"
+        },
+        "camiseta": "17",
+        "pais": {
+            "paisId": "6",
+            "text": "Chile"
+        },
+        "provincia": null,
+        "clubActual": {
+            "_id": "599",
+            "nombre": "Ñublense",
+            "paisId": "6",
+            "paisNombre": "Chile",
+            "paisSigla": "CHI",
+            "tipo": "club"
+        },
+        "localidad": null,
+        "team_id": "154"
+    },
+    {
+        "_id": "19058",
+        "nombre": "Gustavo Ramón",
+        "apellido": "Mencia Dávalos",
+        "nombreCorto": "Gustavo Mencia",
+        "fechaBaja": "2020-01-05",
+        "ladoHabil": null,
+        "fechaNacimiento": "1988-07-05",
+        "horaNacimiento": null,
+        "peso": "81",
+        "altura": "180",
+        "apodo": null,
+        "rol": {
+            "_idRol": "2",
+            "text": "Defensor"
+        },
+        "camiseta": null,
+        "pais": {
+            "paisId": "10",
+            "text": "Paraguay"
+        },
+        "provincia": null,
+        "clubActual": {
+            "_id": "170",
+            "nombre": "Paraguay",
+            "paisId": "10",
+            "paisNombre": "Paraguay",
+            "paisSigla": "PAR",
+            "tipo": "seleccion"
+        },
+        "localidad": null,
+        "team_id": "156"
+    },
+    {
+        "_id": "162723",
+        "nombre": "Brayan Jesús",
+        "apellido": "Valdivia Valdivia",
+        "nombreCorto": "Brayan Valdivia",
+        "fechaBaja": "2020-01-26",
+        "ladoHabil": null,
+        "fechaNacimiento": "1995-12-14",
+        "horaNacimiento": null,
+        "peso": "65",
+        "altura": "168",
+        "apodo": null,
+        "rol": {
+            "_idRol": "3",
+            "text": "Volante"
+        },
+        "camiseta": "25",
+        "pais": {
+            "paisId": "6",
+            "text": "Chile"
+        },
+        "provincia": null,
+        "clubActual": {
+            "_id": "940",
+            "nombre": "D. Copiapó",
+            "paisId": "6",
+            "paisNombre": "Chile",
+            "paisSigla": "CHI",
+            "tipo": "club"
+        },
+        "localidad": null,
+        "team_id": "156"
+    },
+    {
+        "_id": "24882",
+        "nombre": "Pablo Nicolás",
+        "apellido": "Heredia Kovacic",
+        "nombreCorto": "Pablo Heredia",
+        "fechaBaja": "2020-01-10",
+        "ladoHabil": null,
+        "fechaNacimiento": "1990-06-11",
+        "horaNacimiento": null,
+        "peso": "83",
+        "altura": "188",
+        "apodo": null,
+        "rol": {
+            "_idRol": "1",
+            "text": "Arquero"
+        },
+        "camiseta": "22",
+        "pais": {
+            "paisId": "1",
+            "text": "Argentina"
+        },
+        "provincia": null,
+        "clubActual": {
+            "_id": "944",
+            "nombre": "San Luis",
+            "paisId": "6",
+            "paisNombre": "Chile",
+            "paisSigla": "CHI",
+            "tipo": "club"
+        },
+        "localidad": null,
+        "team_id": "945"
+    },
+    {
+        "_id": "59740",
+        "nombre": "Douglas Fabián",
+        "apellido": "Estay Hermosilla",
+        "nombreCorto": null,
+        "fechaBaja": "2020-02-01",
+        "ladoHabil": null,
+        "fechaNacimiento": "1992-04-25",
+        "horaNacimiento": null,
+        "peso": null,
+        "altura": null,
+        "apodo": "Douglas Estay",
+        "rol": {
+            "_idRol": "3",
+            "text": "Volante"
+        },
+        "camiseta": "19",
+        "pais": {
+            "paisId": "6",
+            "text": "Chile"
+        },
+        "provincia": null,
+        "clubActual": {
+            "_id": "944",
+            "nombre": "San Luis",
+            "paisId": "6",
+            "paisNombre": "Chile",
+            "paisSigla": "CHI",
+            "tipo": "club"
+        },
+        "localidad": null,
+        "team_id": "945"
+    },
+    {
+        "_id": "128606",
+        "nombre": "José Manuel",
+        "apellido": "Ajá Livchich",
+        "nombreCorto": "José Manuel Ajá",
+        "fechaBaja": "2020-02-05",
+        "ladoHabil": null,
+        "fechaNacimiento": "1993-05-10",
+        "horaNacimiento": null,
+        "peso": "84",
+        "altura": "193",
+        "apodo": null,
+        "rol": {
+            "_idRol": "2",
+            "text": "Defensor"
+        },
+        "camiseta": "18",
+        "pais": {
+            "paisId": "12",
+            "text": "Uruguay"
+        },
+        "provincia": null,
+        "clubActual": {
+            "_id": "5036",
+            "nombre": "Minnesota United",
+            "paisId": "14",
+            "paisNombre": "Estados Unidos",
+            "paisSigla": "USA",
+            "tipo": "club"
+        },
+        "localidad": null,
+        "team_id": "157"
+    },
+    {
+        "_id": "170239",
+        "nombre": "Lucas Bastián",
+        "apellido": "Alarcón Ancapi",
+        "nombreCorto": "Lucas Alarcón",
+        "fechaBaja": "2020-02-01",
+        "ladoHabil": null,
+        "fechaNacimiento": "2000-03-05",
+        "horaNacimiento": null,
+        "peso": "78",
+        "altura": "183",
+        "apodo": null,
+        "rol": {
+            "_idRol": "2",
+            "text": "Defensor"
+        },
+        "camiseta": "16",
+        "pais": {
+            "paisId": "6",
+            "text": "Chile"
+        },
+        "provincia": null,
+        "clubActual": {
+            "_id": "635",
+            "nombre": "Chile",
+            "paisId": "6",
+            "paisNombre": "Chile",
+            "paisSigla": "CHI",
+            "tipo": "seleccion"
+        },
+        "localidad": null,
+        "team_id": "76"
+    }
+]
