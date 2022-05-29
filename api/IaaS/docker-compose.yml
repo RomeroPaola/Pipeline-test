@@ -1,0 +1,30 @@
+networks:
+      fz_net:
+        external: True
+services:
+    # MongoDB   
+    mongo:
+        container_name: mongodb
+        image: mongo:latest
+        env_file:
+            - .env
+        ports:
+            - "27017:27017"
+        networks:
+            - "fz_net"
+
+    # Initial Seed to Database
+    mongo-seed:
+        env_file:
+            - .env
+        build:
+            context: ./mongo_seed
+            dockerfile: Dockerfile
+            args:
+                - DATABASE_URI="${DATABASE_URI}"
+                - USERNAME="${MONGO_INITDB_ROOT_USERNAME}"
+                - PASSWORD="${MONGO_INITDB_ROOT_PASSWORD}"
+        depends_on:
+            - mongo
+        networks:
+            - "fz_net"
